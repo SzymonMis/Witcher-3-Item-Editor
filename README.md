@@ -4,6 +4,11 @@
 Item Editor is a simple application for editing xml files with item definitions in Witcher 3.
 Just open any file from gameplay/items/ or gameplay/items_plus and feel free to edit attributes
 
+## Getting Started
+1) [Install .net](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
+2) [Download app](https://github.com/SzymonMis/Witcher-3-Item-Editor/releases)
+3) Enjoy!
+
 ## Ready Features
 - Items attribute editor
 
