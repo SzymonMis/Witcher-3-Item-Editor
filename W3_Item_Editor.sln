@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W3_Item_Editor", "W3_Item_Editor.csproj", "{99CF9445-FB81-41D9-8916-95E52BB7C351}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99CF9445-FB81-41D9-8916-95E52BB7C351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99CF9445-FB81-41D9-8916-95E52BB7C351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99CF9445-FB81-41D9-8916-95E52BB7C351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99CF9445-FB81-41D9-8916-95E52BB7C351}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9AF90E3-C85A-422D-A5BA-6F60DC34D3B9}
+	EndGlobalSection
+EndGlobal
