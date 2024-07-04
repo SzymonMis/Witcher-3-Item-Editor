@@ -80,7 +80,7 @@
 			// 
 			// buttonAdd
 			// 
-			buttonAdd.Location = new Point(8, 546);
+			buttonAdd.Location = new Point(8, 533);
 			buttonAdd.Name = "buttonAdd";
 			buttonAdd.Size = new Size(108, 23);
 			buttonAdd.TabIndex = 6;
@@ -89,7 +89,7 @@
 			// 
 			// buttonRemove
 			// 
-			buttonRemove.Location = new Point(236, 546);
+			buttonRemove.Location = new Point(119, 533);
 			buttonRemove.Name = "buttonRemove";
 			buttonRemove.Size = new Size(108, 23);
 			buttonRemove.TabIndex = 5;
@@ -98,7 +98,7 @@
 			// 
 			// buttonEdit
 			// 
-			buttonEdit.Location = new Point(122, 546);
+			buttonEdit.Location = new Point(233, 533);
 			buttonEdit.Name = "buttonEdit";
 			buttonEdit.Size = new Size(108, 23);
 			buttonEdit.TabIndex = 4;
@@ -125,7 +125,7 @@
 			listBox.ItemHeight = 15;
 			listBox.Location = new Point(8, 43);
 			listBox.Name = "listBox";
-			listBox.Size = new Size(808, 499);
+			listBox.Size = new Size(808, 484);
 			listBox.TabIndex = 1;
 			// 
 			// textBox1

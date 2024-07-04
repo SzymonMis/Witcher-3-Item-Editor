@@ -35,11 +35,6 @@ namespace W3_Item_Editor
 			this.MainMenuStrip = menuStrip;
 			this.Controls.Add(menuStrip);
 
-			// Buttons // TODO Remove this sh*t
-			buttonAdd.Text = "Add Attribute";
-			buttonEdit.Text = "Edit Attribute";
-			buttonRemove.Text = "Remove Selected";
-
 			// Events xd
 			buttonAdd.Click += (sender, e) => AddAttribute();
 			buttonEdit.Click += (sender, e) => EditAttribute();
@@ -53,7 +48,6 @@ namespace W3_Item_Editor
 		{
 			if (itemsView.SelectedNode?.Tag is XmlNode selectedNode)
 			{
-				// Prompt user for new attribute name and value						
 				var attrName = Prompt.ShowDialog("Enter attribute name:");
 
 				if (string.IsNullOrEmpty(attrName))
